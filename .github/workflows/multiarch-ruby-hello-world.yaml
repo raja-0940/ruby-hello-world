@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
       
 env:
-  IMAGE_NAME: rhel-ubi9
+  IMAGE_NAME: ruby-hello-world
   IMAGE_TAG: latest
   IMAGE_REGISTRY: quay.io
   IMAGE_NAMESPACE: raja0940
